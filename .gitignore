@@ -1,3 +1,6 @@
+# don't track private data/keep it off github
+data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
